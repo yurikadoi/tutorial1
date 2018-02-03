@@ -1,3 +1,7 @@
 Monkeys understand Github
 Add register change in Index
+<<<<<<< HEAD
 Pull retrieve remote repository
+=======
+Commit record index state
+>>>>>>> 37310332c51a7c5b07b5e047ea61b8b9be6e741d
